@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to my Repository!
-
-<div style="font-size: 32px; font-weight: bold; color: #007acc; margin-bottom: 10px;">
-  <b>I'm Mr D (DS Gaming)</b>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+Repository!;💻+I'm+Mr+D+(DS+Gaming))](https://git.io/typing-svg)
 
 ### 🎮 iOS Game Hacker | Bypass Expert | Private Tool Developer
 
