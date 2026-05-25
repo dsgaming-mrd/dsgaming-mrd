@@ -61,15 +61,8 @@
 
 <div style="background-color: rgba(0, 122, 204, 0.03); padding: 25px; border-radius: 20px; border: 0.5px solid rgba(0, 122, 204, 0.1);">
 
-![](https://github-readme-stats.vercel.app/api?username=dsgaming-mrd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=dsgaming-mrd&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsgaming-mrd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Escarabajoz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Escarabajoz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dsgaming-mrd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 💻 Tech Stack
 
